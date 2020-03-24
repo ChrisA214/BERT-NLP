@@ -1,2 +1,7 @@
-# BERT-NLP
-Natural language processing project
+# bert-nlp
+natural language processing project
+
+model1 description: sentiment analysis
+
+
+
